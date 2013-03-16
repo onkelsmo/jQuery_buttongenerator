@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+form
+{
+	/*background-color: #DDDDDD;*/		
+}
+
+form.uploads
+{
+	/*background-color: #DDDDDD;*/
+	position: absolute;
+	left: 220px;
+	bottom: 749px;
+}
+
